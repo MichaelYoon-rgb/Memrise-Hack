@@ -10,3 +10,9 @@ Paste all of the code under // FIRST PART in hack.js into the javascript console
 Next click the continue learning button, to start the memrise level  
 Right click and inspect the console again  
 Then paste all of the code under // SECOND PART in hack.js into the javascript console  
+
+## FOR MAC
+Download the repo and then open the repo folder in finder. If You are using mac then go into macBuild > Dist. Double click on UI then go back to memrise it should start working now. You may have to allow accessibility in privacy in the settings.
+
+## FOR WINDOW
+Download the repo and then open the repo folder in finder. If You are using windows then go into windowBuild > Dist. Double click on UI then go back to memrise it should start working now
